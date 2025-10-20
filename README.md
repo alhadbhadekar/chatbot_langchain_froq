@@ -1,1 +1,1 @@
-# chatbot_kangchain_froq
+# chatbot_langchain_froq
